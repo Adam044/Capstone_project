@@ -109,6 +109,6 @@ Before running this project, make sure you have the following installed:
 
 Developed by **Adam Hawash**  
 Email: adamhawashmain@gmail.com  
-phone number: +970 594444403  
+Phone number: +970 594444403  
 Senior Capstone Project – 2025  
 Feel free to reach out or fork the project!
